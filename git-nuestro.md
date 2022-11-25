@@ -8,4 +8,3 @@ Como también perdonas los de otros geeks
 No nos dejes caer en *detached HEAD*
 y líbranos de *SVN*
 'git commit --ammend'
-
